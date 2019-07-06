@@ -2,7 +2,7 @@
 
 # Welcome to DavidDaDev GitHub Page
 
-This project is a Tesla Roadster landing page mock up. For this project I used the introduction of Bootstrap Studio. 
+This project is an Apple iPhone landing page mock up. For this project I used the introduction of Bootstrap Studio. 
 
 Feel free to look at my projects. If you want to drop a line visit my personal [website](http://davidsoto.dev/).
 
