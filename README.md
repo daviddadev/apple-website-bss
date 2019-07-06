@@ -1,7 +1,24 @@
-# apple-website-bss
-This is a Bootstrap project mimicking Apple's website 2nd in the series. This project was build using Bootstrap Studio.
+![]()
 
+# Welcome to DavidDaDev GitHub Page
 
-Go [here](https://sotoxp.github.io/apple-website-bss/) to see the app in it's full glory :)
+This project is a Tesla Roadster landing page mock up. For this project I used the introduction of Bootstrap Studio. 
 
-Hope you enjoy and thanks for visiting my GitHub page!
+Feel free to look at my projects. If you want to drop a line visit my personal [website](http://davidsoto.dev/).
+
+## Launch
+
+To see the project live tap [here](https://daviddadev.github.io/bootstrap-tesla-roadster-demo/), and thanks for visiting my GitHub. Enjoy.
+
+- David
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+### Disclaimer
+On older projects, some links might be dead, broken, or empty. Some projects are just to show the look and feel without 100% functionality. 
